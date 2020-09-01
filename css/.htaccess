@@ -1,0 +1,3 @@
+Options -Indexes
+AuthName "theft"
+AuthUserFile "/home/dimensio/.htpasswds/public_html/css/passwd"
